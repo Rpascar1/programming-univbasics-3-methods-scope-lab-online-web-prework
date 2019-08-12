@@ -1,4 +1,4 @@
-2def mario
+def mario
   puts phrase = "It's-a me, Mario!"
 end
 
@@ -7,7 +7,8 @@ def toadstool
 end
 
 def link
+  puts 
 
-def any_phrase(anyphrasehere = "Do A Barrel Roll!" )
+def any_phrase
   puts "Do A Barrel Roll!"
 end  
