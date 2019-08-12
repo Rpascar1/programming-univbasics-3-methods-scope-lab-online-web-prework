@@ -1,4 +1,4 @@
-def mario
+2def mario
   puts phrase = "It's-a me, Mario!"
 end
 
@@ -6,5 +6,6 @@ def toadstool
   puts status = 'Thank You Mario! But Our Princess Is In Another Castle!'
 end
 
-def any_phrase
-  
+def any_phrase(anyphrasehere = "Do A Barrel Roll!" )
+  puts "Do A Barrel Roll!"
+end  
